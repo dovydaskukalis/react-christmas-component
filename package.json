@@ -1,0 +1,14 @@
+{
+  "name": "react-christmas-component",
+  "version": "1.0.0",
+  "description": "Hohoho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dovydas Kukalis",
+  "license": "ISC",
+  "dependencies": {
+    "react": "17.0.1"
+  }
+}
